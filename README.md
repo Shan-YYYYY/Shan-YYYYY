@@ -1,5 +1,6 @@
 ### Hi there 👋
 Blockchain 是推动实现公平社会的唯一方式
+<p>我正为之努力
 <!-- <img src="http://views.whatilearened.today/views/github/Shan-YYYYY/views.svg"/> -->
 <!-- **Shan-YYYYY/Shan-YYYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
