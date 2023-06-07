@@ -1,5 +1,6 @@
 ### Hi there 👋
 Blockchain 是推动实现公平社会的唯一方式
+<img src="http://views.whatilearened.today/views/github/Shan-YYYYYviews.svg"/>
 <!-- **Shan-YYYYY/Shan-YYYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,11 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
- ![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shan-YYYYY&count_private=true&show_icons=true&theme=tokyonight)
-  <a href="https://github.com/Shan-YYYYY/"><img src="https://img.shields.io/github/followers/Shan-YYYYY?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-
+![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shan-YYYYY&count_private=true&show_icons=true&theme=tokyonight)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-YYYYY&count_private=true&show_icons=true&theme=tokyonight)
 
-<p><img align="right" src="https://media3.giphy.com/media/urvgMAaV4VzeZpMXau/giphy.gif?cid=ecf05e47x0hl5y7qhimo3w0l2kt7y1bcd642jdvwrva51hqe&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="450" height="400">
+<a><img align="right" src="https://media3.giphy.com/media/urvgMAaV4VzeZpMXau/giphy.gif?cid=ecf05e47x0hl5y7qhimo3w0l2kt7y1bcd642jdvwrva51hqe&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="450" height="400"></a>
 
 ![Top Langs](https://media3.giphy.com/media/urvgMAaV4VzeZpMXau/giphy.gif?cid=ecf05e47x0hl5y7qhimo3w0l2kt7y1bcd642jdvwrva51hqe&ep=v1_gifs_related&rid=giphy.gif&ct=g)
