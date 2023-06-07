@@ -1,5 +1,5 @@
 ### Hi there 👋
-<P>我是一名来自CUIT目标从事BlockChain的大四学生
+我是一名来自CUIT目标从事BlockChain的大四学生
 <!-- **Shan-YYYYY/Shan-YYYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
