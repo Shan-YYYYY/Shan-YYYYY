@@ -1,5 +1,5 @@
 ### Hi there 👋
-Blockchain 是推动实现公平社会的唯一方式/n
+Blockchain 是推动实现公平社会的唯一方式
 
 我正为之努力
 <!-- <img src="http://views.whatilearened.today/views/github/Shan-YYYYY/views.svg"/> -->
