@@ -1,6 +1,6 @@
 ### Hi there 👋
-<P><我是一名来自CUIT目标从事BlockChain的大四学生/p>
-
+<P>我是一名来自CUIT目标从事BlockChain的大四学生
+[![wakatime](https://wakatime.com/badge/user/71d3be65-76dd-4761-b0ef-07073364abb9.svg)](https://wakatime.com/@71d3be65-76dd-4761-b0ef-07073364abb9)
 <!-- **Shan-YYYYY/Shan-YYYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
