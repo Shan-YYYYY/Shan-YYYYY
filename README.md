@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
  ![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shan-YYYYY&count_private=true&show_icons=true&theme=tokyonight)
+  <a href="https://github.com/Shan-YYYYY/"><img src="https://img.shields.io/github/followers/Shan-YYYYY?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-YYYYY&count_private=true&show_icons=true&theme=tokyonight)
 
